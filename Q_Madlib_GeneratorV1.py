@@ -9,6 +9,7 @@ Event = ["birthday", "baptism", "Bar Mitzvah", "Bat Mitzvah", "subjugation to th
 
 TimeDay = ["that day", "tomorrow", "next week", "next year", "all of next week", "the day after tomorrow", "in 28 days", "on the next full moon", "from now until the end of time", "later today", "tomorrow morning", "this evening"]
 
+#ToDo: Add water lawn line
 
 #print("Sorry can't make it, we have ((MY/DEMI'S)) ((FAMILY MEMBER POSSESSIVE)) ((EVENT)) ((TIME OR DAY)), so we can't make it. But yall have fun tho!")
 
